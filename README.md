@@ -1,0 +1,2 @@
+# LegendBot
+DiscBot
